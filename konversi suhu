@@ -1,0 +1,12 @@
+#include<iostream.h>
+								  <<endl;
+
+cout<<"Masukkan nilai celcius = "<<endl;
+cin>>c;
+
+r = c * 4 / 5;
+f = c * 9 / 5 + 32;
+
+cout<<"Maka nilai Reamur adalah "<<r<<endl<<endl;
+cout<<"Maka nilai Fahrenheit adalah "<<f<<endl;
+}
